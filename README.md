@@ -1,5 +1,5 @@
 # Sobre o projeto: Lyrics Search
- Buscador de letras em Javascript puro.
+ Buscador de letras de musicas desenvolvido em Javascript puro.
 ## Tecnologias usadas:
 
 * HTML 
